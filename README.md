@@ -6,8 +6,8 @@ FFull Stack Developer 💻 | MERN Stack ⚡ | Quick Learner 📚 | Open to Oppor
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently building web projects with **HTML, CSS, JavaScript & Python**
-- 📚 Actively learning **React, Node.js & DSA** for interview prep
+- 🔭 Currently building web projects with ** React & Node.js  **
+- 📚 Actively learning ** DSA** for interview prep
 - 💡 I love turning ideas into real, working web applications
 - ⚡ Fun fact: My SIH1775 project earned ⭐ stars — and I'm just getting started! 😄
 -  📫 Reach me at **shahidamzad07@gmail.com**
@@ -58,7 +58,7 @@ FFull Stack Developer 💻 | MERN Stack ⚡ | Quick Learner 📚 | Open to Oppor
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏆 SIH1775 | Smart India Hackathon project — ⭐ 2 stars! | HTML |
+| 🏆 SIH1775 | Smart India Hackathon project — ⭐ 2 stars! | Python,HTML |
 | 🏥 HMS | Hospital Management System — patient records & management | Full Stack  |
 | 🚗 Car Rental | Interactive car rental platform with booking - ⭐ 3 stars! | Full Stack  |
 | 🏦 Bank Management | Console-based banking system | Python |
