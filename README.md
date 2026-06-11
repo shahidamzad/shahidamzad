@@ -46,9 +46,9 @@ FFull Stack Developer 💻 | MERN Stack ⚡ | Quick Learner 📚 | Open to Oppor
 ---
 
 ## 📖 Currently Learning
-![java](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=java.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-orange?style=for-the-badge)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
