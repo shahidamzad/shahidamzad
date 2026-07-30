@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shahid Hussain
 
-FFull Stack Developer 💻 | MERN Stack ⚡ | Quick Learner 📚 | Open to Opportunities 🤝
+Full Stack Developer 💻 | MERN Stack ⚡ | Quick Learner 📚 | Open to Opportunities 🤝
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Currently+Building+%26+Learning+Every+Day...;Learning+Every+Day+%26+Improving+Skills+%F0%9F%93%88;Student+Developer+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%A4%9D)](https://git.io/typing-svg)
 ---
